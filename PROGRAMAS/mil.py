@@ -1,0 +1,7 @@
+
+
+print("palabra",end= "")
+print(" ")
+
+
+

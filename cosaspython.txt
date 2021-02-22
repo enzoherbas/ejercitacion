@@ -1,0 +1,4 @@
+los 3 usos de range:
+range(stop)
+range(start,stop)
+range(start,stop,step)
